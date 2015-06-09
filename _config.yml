@@ -1,4 +1,4 @@
-permalink: /:year/:month/:day/:title.html
+﻿permalink: /:year/:month/:day/:title.html
 markdown: kramdown
 pygments: true
 
@@ -37,10 +37,9 @@ active: 技术
 
 # 首页除了最新文章外显示分类
 cates: 
-  - Git
-  - Pxe+kickstart
-  - Information
-  - Linglong
+  - zabbix
+  - KVM虚拟化
+  - openstack
 
 # 中文本地化
 locals:
