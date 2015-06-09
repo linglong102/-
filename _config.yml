@@ -7,15 +7,15 @@ kramdown:
 
 # 作者信息
 author: 
-  name: Barry
-  email: 1005437573@qq.com
+  name: linglong102
+  email: 102140203@qq.com
   link: http://linglong102.github.io/
   weibo: 
   github: https://github.com/linglong102
 
 # 站点信息
-title: Barry的博客 
-description: Barry的博客
+title: linglong102的博客 
+description: 张玲珑的博客
 url: http://linglong102.github.io/
 rss_url: /pages/atom.xml
 
@@ -40,6 +40,7 @@ cates:
   - Git
   - Pxe+kickstart
   - Information
+  - Linglong
 
 # 中文本地化
 locals:
